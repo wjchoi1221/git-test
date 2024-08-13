@@ -35,6 +35,7 @@ int main(void){
     {
         cout << vc[i] << "\n"; 
     }
+    cout << "문제 해결" ;
     
     
 }
